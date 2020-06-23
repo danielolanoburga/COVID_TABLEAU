@@ -1,5 +1,7 @@
 # COVID - Análisis Descriptivo
 
+Repositorio Github: https://github.com/danielolanoburga/COVID_TABLEAU
+
 Este repositorio contiene un análisis descriptivo de los casos positivos con Covid 19 en la región San Martín. Para esto se apoyó en la herramienta Tableau para presentar de forma gráfica los datos obtenidos de fuentes oficiales del gobierno.
 
 ### Contenido del repositorio
