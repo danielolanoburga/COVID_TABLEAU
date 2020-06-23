@@ -10,6 +10,7 @@ El repositorio contiene lo siguiente:
 * Archivo filtrado y formateado para importarlo en Tableau.
 * Archivo proyecto Tableau.
 * PDF del dashboard con los gráficos de los indicadores.
+* URL del video: https://youtu.be/KCW-L8o0JqA
 * URL del dashboard online.
 
 Listado de ilustraciones
