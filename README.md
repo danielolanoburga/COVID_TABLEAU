@@ -11,3 +11,10 @@ El repositorio contiene lo siguiente:
 * Archivo proyecto Tableau.
 * PDF del dashboard con los gráficos de los indicadores.
 * URL del dashboard online.
+
+Listado de ilustraciones
+
+* Evolución de casos positivos por día
+* Cantidad de registros positivos por Distrito y Provincia
+* Cantidad de casos positivos por sexo y tipo de prueba
+* Top de edades con mas casos positivos 
